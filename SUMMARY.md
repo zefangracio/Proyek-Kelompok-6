@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Proyek-Kelompok-6](README.md)
+* [Fungsi Web](README.md)
 
